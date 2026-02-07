@@ -8,6 +8,9 @@ The dataset summarizes FEMA disaster declarations from 1953 to 2023. It is sourc
 Python, Power BI
 
 ## Key Findings
+
+This is the link to my dasboard: https://drive.google.com/file/d/1nNWrN60_GldfiYpYRrknAvlMa84JIR49/view?usp=sharing
+
 - A long-term increase in disaster declarations from 1953 to 2023. Major spikes around 2005, in 2012 and in 2020 (COVID19).
 - Disasters activity peaks in March and September, while the quietest months are November and December. The remaining months — January, February, April, May, June, July, August, and October show moderate totals.
 - Texas is the most disaster-impacted state. Kentucky (KY), Missouri (MO), Oklahoma (OK) also rank high. All the other states have moderate or low disaster activity declared.
@@ -22,4 +25,4 @@ To strengthen disaster response and preparedness:
 - Review and enhance assistance for low disaster activity states & territories to ensure equitable access to federal disaster support.
 - Establish a long-term strategy for recurring hazards (multi-year resilience planning, using historical data to create data-driven risk reduction strategies)
 
-This is the link to my dasboard: https://drive.google.com/file/d/1nNWrN60_GldfiYpYRrknAvlMa84JIR49/view?usp=sharing
+
