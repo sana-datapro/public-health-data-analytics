@@ -1,5 +1,5 @@
 ## Objective:
-A comprehensive analysis of FEMA disaster declarations in the US to identify yearly trends, seasonal patterns, assess state-level disaster activity and the FEMA assistance programs utilization to provide data-driven insights that can support improved disaster preparedness, more effective resource allocation, and enhanced mitigation planning in high risk regions.
+To identify yearly trends, seasonal patterns, assess state-level disaster activity and the FEMA assistance programs utilization from 1953 to 2023 to provide data-driven insights that can support improved disaster preparedness, more effective resource allocation, and enhanced mitigation planning in high risk regions.
 
 ## Dataset
 The dataset summarizes FEMA disaster declarations from 1953 to 2023. It is sourced from the FEMA website (https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2) and exists in the public Kaggle platform (https://www.kaggle.com/datasets/headsortails/us-natural-disaster-declarations).
