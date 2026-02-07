@@ -5,7 +5,7 @@ To identify yearly trends, seasonal patterns, assess state-level disaster activi
 The dataset summarizes FEMA disaster declarations from 1953 to 2023. It is sourced from the FEMA website (https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2) and exists in the public Kaggle platform (https://www.kaggle.com/datasets/headsortails/us-natural-disaster-declarations).
 
 ## Tools
-Python
+Python, Power BI
 
 ## Key Findings
 - A long-term increase in disaster declarations from 1953 to 2023. Major spikes around 2005, in 2012 and in 2020 (COVID19).
@@ -21,3 +21,5 @@ To strengthen disaster response and preparedness:
 - Prepare targeted seasonal readiness plans before March and September (prepositioning ressources and increasing communication) to improve rapid response and reduce the impact of predictable seasonal hazards.
 - Review and enhance assistance for low disaster activity states & territories to ensure equitable access to federal disaster support.
 - Establish a long-term strategy for recurring hazards (multi-year resilience planning, using historical data to create data-driven risk reduction strategies)
+
+This is the link to my dasboard: https://drive.google.com/file/d/1nNWrN60_GldfiYpYRrknAvlMa84JIR49/view?usp=sharing
